@@ -1,0 +1,48 @@
+@import url('https://fonts.cdnfonts.com/css/calculator');
+
+table {
+    padding: auto;
+
+}
+
+tr {
+    background-color: lightgray;
+}
+
+button {
+    border-radius: 5px;
+    font-size: 40px;
+    width: 75px;
+    font-family: "Calculator", sans-serif;
+}
+
+#calculator_body {
+    background-color: lightgray;
+    border-radius: 10px;
+    height: 350px;
+    width:315px;
+    padding: 20px
+}
+
+#screen {
+    background-color: grey;
+    font-size: 50px;
+    padding-left: 2.5%;
+    padding-bottom: 2.5%;
+    font-family: "Calculator", sans-serif;
+    border-radius: 10px;
+    height: 50px;
+}
+
+#screenText {
+    padding-right: 10px;
+}
+
+#clearButton {
+    background-color: orange;
+}
+
+#equalButton {
+    background-color: orange;
+    width: 415%;
+}
